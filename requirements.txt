@@ -6,3 +6,6 @@ langchain-text-splitters
 numpy
 pandas
 pymupdf
+pdf2image
+pytesseract
+pillow
