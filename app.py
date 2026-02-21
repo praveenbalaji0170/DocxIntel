@@ -24,7 +24,7 @@ import torch
 # -------------------------
 # Configuration & State
 # -------------------------
-STORE_DIR = Path("/content/reasonedai_store")
+STORE_DIR = Path("reasonedai_store")
 STORE_DIR.mkdir(exist_ok=True)
 CHUNKS_FILE = STORE_DIR / "chunks.json"
 EMBED_FILE = STORE_DIR / "embeddings.npy"
