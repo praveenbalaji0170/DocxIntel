@@ -5,3 +5,4 @@ requests
 langchain-text-splitters
 numpy
 pandas
+pymupdf
