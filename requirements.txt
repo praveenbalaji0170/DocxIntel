@@ -9,3 +9,9 @@ pymupdf
 pdf2image
 pytesseract
 pillow
+python-docx
+spacy
+plotly
+scikit-learn
+torch
+pytz
